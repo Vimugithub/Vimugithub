@@ -1,5 +1,5 @@
 # Personal
-It's all about personal
+It's all about Me.
 <h1 align="center">Hi 👋, I'm Vimal Kumar</h1>
 <h3 align="center">A passionate frontend developer from India & ADIT @IBM</h3>
 
