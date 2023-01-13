@@ -1,4 +1,5 @@
-[![MasterHead](https://research.atu.edu.iq/wp-content/uploads/2021/01/cloud-computing-banner-1024x323.jpg)](https://vimugithub.io)
+[![MasterHead](https://www.beamstacks.com/blog/wp-content/uploads/2017/09/cloud-computing-banners-1024x283.jpg)](https://vimugithub.io)
+
 It's all about Me.
 <h1 align="center">Hi 👋, I'm Vimal Kumar</h1>
 <h3 align="center">A passionate frontend developer from India & ADIT @IBM</h3>
