@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
-- 🔭 I’m currently working on [Resume](https://github.com/Vimugithub/V-resu)
+- 🔭 I’m currently working on **Photography Website**
 
 - 🌱 I’m currently learning **Networking, Java, Javascript, Database, Mysql**
 
