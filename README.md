@@ -46,3 +46,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimugithub)](https://github.com/vimugithub/github-readme-stats )
 
+ ## Snake eating my contribustion
+ 
+![snake.gif](https://github.com/Vimugithub/Vimugithub/blob/output/github-contribution-grid-snake.gif)
