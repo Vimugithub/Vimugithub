@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Photography Website**
 
-- 🌱 I’m currently learning **Networking, Java, Javascript, Database, Mysql**
+- 🌱 I’m currently learning **Networking, Java, Javascript, Database, Mysql, Laravel, MongoDB, Django**
 
 - 👯 I’m looking to collaborate on [Sonali Mishra](https://github.com/Missonali)
 
