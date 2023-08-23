@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vimal Kumar</h1>
 <h3 align="center">A passionate frontend developer from India & ADIT😎 @IBM</h3>
 
+<p align="center"><td width="40%"><img width="400px" src="https://github.com/atikrpi27/Atikur-Rahman/blob/main/programming.gif" alt="atikrpi27" /></td>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vimugithub&label=Profile%20views&color=0e75b6&style=flat" alt="vimugithub" /> </p>
 
